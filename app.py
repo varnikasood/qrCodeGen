@@ -45,5 +45,4 @@ def generate_qr():
 
     return jsonify({'qr_code_url': img_url})
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# No need for app.run() when deploying to Vercel
