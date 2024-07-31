@@ -2,6 +2,9 @@
 
 A web application that generates customizable QR codes based on user input. This project demonstrates the integration of a frontend interface with a backend service to create and customize QR codes.
 
+![ezgif com-speed](https://github.com/user-attachments/assets/de0ea897-9edc-448d-811c-fc483e6d199b)
+
+
 ## Features
 
 - Generate QR codes by entering a website link.
