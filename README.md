@@ -13,8 +13,19 @@ A web application that generates customizable QR codes based on user input. This
 
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
 - **Backend:** Python, Flask, QRCode Library
-- **Deployment:** Vercel
+- **Deployment:** GitHub Pages (for frontend) and local server (for backend)
 
-## Live Demo
+## Installation and Setup
 
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/varnikasood/qrCodeGen.git
+   cd qrCodeGen
 
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the Flask server:**
+   ```bash
+   python app.py
